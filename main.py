@@ -6,10 +6,9 @@ from planets import star_list
 
 pygame.init()
 
-WIDTH, HEIGHT = 1300, 750
+WIDTH, HEIGHT = 1920,1080
 win = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Solar System Simulation")
-
+pygame.display.set_caption("Physix")
 FONT = pygame.font.SysFont("Consolas", 18)
 PAUSE_FONT = pygame.font.SysFont("Consolas", 24)
 LEGEND_TEXTS = ["P Pause", "M Mute", "I Info off", "Q Quit", 
