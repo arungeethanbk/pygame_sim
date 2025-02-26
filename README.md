@@ -1,6 +1,16 @@
-# pygame_sim
+# pygame_sim  
 
-This repo is entirely open source. 
+A simple physics simulation using Pygame. This project demonstrates basic physics concepts through interactive visualizations.  
 
+## Features  
 
-all you need or this to run is installing pygame and a decent computer. 
+- Physics-based simulations using Pygame  
+- Lightweight and easy to run  
+- Open-source and customizable  
+
+## Installation  
+
+Ensure you have Python installed, then install Pygame:  
+
+```bash
+pip install pygame
